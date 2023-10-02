@@ -66,6 +66,7 @@ ALLOWED_HOSTS = [
     "8000-bwnccode-drfapi-q60svzcnayh.ws-eu105.gitpod.io",
     "localhost",
     "drf-app-bwnc.herokuapp.com",
+    "drf-app-bwnc-b8e3842a0fb7.herokuapp.com",
 ]
 
 
